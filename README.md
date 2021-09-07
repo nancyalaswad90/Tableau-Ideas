@@ -48,7 +48,17 @@ The file you must use in creating your data visualizations is the `flights.csv` 
 
 - [Data Viz Project Walkthrough DAF Final](https://www.youtube.com/watch?v=9xqHA732LMA)
 
->  ![join](https://user-images.githubusercontent.com/36210723/132284181-74b3899a-907e-411a-81ae-21660da1e3c0.png)
+
+.
+
+
+
+> ![1111.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1630990055/1111.png)
+> ![2222.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1630990055/2222.png)
+> ![join.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1630990056/join.png)
+
+
+.
 
 
 You are required to create three visualizations. Some questions you may attempt to answer include those pertaining to the following areas:
