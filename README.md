@@ -48,7 +48,7 @@ The file you must use in creating your data visualizations is the `flights.csv` 
 
 - [Data Viz Project Walkthrough DAF Final](https://www.youtube.com/watch?v=9xqHA732LMA)
 
-
+>  ![join](https://user-images.githubusercontent.com/36210723/132284181-74b3899a-907e-411a-81ae-21660da1e3c0.png)
 
 
 You are required to create three visualizations. Some questions you may attempt to answer include those pertaining to the following areas:
