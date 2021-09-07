@@ -46,6 +46,10 @@ This data comes from a Kaggle dataset, it tracks the on-time performance of US d
 The file you must use in creating your data visualizations is the `flights.csv` file. The other two provided files may be used in conjunction with the `flights.csv file`, but should not be used **alone.**
 
 
+- [Data Viz Project Walkthrough DAF Final](https://www.youtube.com/watch?v=9xqHA732LMA)
+
+
+
 
 You are required to create three visualizations. Some questions you may attempt to answer include those pertaining to the following areas:
 
