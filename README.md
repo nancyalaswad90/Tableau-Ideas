@@ -67,6 +67,23 @@ You are required to create three visualizations. Some questions you may attempt 
 
 
 
+> ### 
+
+
+- **[Extract Data]()**
+
+.
+
+.
+
+
+- **[]()**
+
+- **[]()**
+
+- **[]()**
+
+
 ===========================
 
 
