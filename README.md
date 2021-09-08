@@ -80,6 +80,7 @@ You are required to create three visualizations. Some questions you may attempt 
 
 .
 
+![extract](https://user-images.githubusercontent.com/36210723/132430446-717fcad5-c039-4c1d-9103-d4ff295c8e5e.png)
 .
 
 
