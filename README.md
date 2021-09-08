@@ -62,3 +62,31 @@ The file you must use in creating your data visualizations is the `flights.csv` 
 
 You are required to create three visualizations. Some questions you may attempt to answer include those pertaining to the following areas:
 
+
+
+
+
+
+===========================
+
+
+
+### Extra Tip :bulb:
+
+---------------------
+
+
+While this project concerns presenting data in a cohesive and efficient manner using Tableau, there are other popular tools companies use for presenting data. Here’s a sample of them!
+
+
+- [LOOKER ](https://looker.com/) is a platform used for big data analytics and business intelligence. It is part of the Google Cloud Platform.
+
+
+- [PowerBI](https://powerbi.microsoft.com/en-us/) is a service that comes from Microsoft providing interactive visualizations and business intelligence on an interface that connects well with other Microsoft Office Suite tools!
+
+
+Of course, you can build your own tools using libraries in different statistical or programming languages, like [seaborn](https://seaborn.pydata.org/) or [plotly](https://plotly.com/) for Python or [ggplot2](https://ggplot2.tidyverse.org/) for R.
+
+
+
+.
