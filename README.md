@@ -76,12 +76,28 @@ You are required to create three visualizations. Some questions you may attempt 
 > ### 
 
 
-- **[Extract Data]()**
+- **[Extract Data]()**  Or How to publish 
 
 .
 
 ![extract](https://user-images.githubusercontent.com/36210723/132430446-717fcad5-c039-4c1d-9103-d4ff295c8e5e.png)
 .
+
+
+
+> **Steps in this vedio **
+
+
+![image.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617583021/image.png)
+
+
+
+![image (1).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617583022/image__1_.png)
+
+
+![image (2).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617583022/image__2_.png)
+
+
 
 
 - **[]()**
