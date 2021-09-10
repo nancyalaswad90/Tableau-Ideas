@@ -102,7 +102,9 @@ You are required to create three visualizations. Some questions you may attempt 
 
 - **[How to make percentage ,  calculations in Tableau](https://www.youtube.com/watch?v=CbMtGrZnnoI&t=4s)**
 
-- **[]()**
+
+
+- **[ Should I clean the data using the data interpreter check box](https://knowledge.udacity.com/questions/636517)**
 
 - **[]()**
 
