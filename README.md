@@ -15,6 +15,9 @@
 ### [ٍSave and Extract data in Tableau then share link to public](https://www.youtube.com/watch?v=qVT1aFjDB64&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=4)
 
 
+### [ٍTable calculations in Tableau](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
+
+
 
 .
 
