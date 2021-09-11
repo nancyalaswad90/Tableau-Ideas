@@ -18,7 +18,29 @@
 ### [ٍTable calculations in Tableau](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
 
 
+
+
+=========================
+
+
+**Table of Contents:**
+
+
 * [1. Research Question](#ch1)
+* [2. Overview of the Dataset](#ch2)
+* [3. Data Wrangling](#ch3)
+* [4. Explore Individual Variables](#ch4)
+* [5. Did high budget movies achieve high ROI? (Q1)](#ch5)
+* [6. Did specific genres lead to high ROI? (Q2)](#ch6)
+* [7. Did high score movies achieve high ROI? (Q3)](#ch7)
+* [8. Conclusions](#ch8)
+
+
+
+
+
+========================
+
 .
 
 > ## Project Description
