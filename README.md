@@ -180,6 +180,13 @@ Of course, you can build your own tools using libraries in different statistical
 
 
 .
+
+
+========================
+# 2. Overview of the Dataset<a class="anchor" id="ch2"></a>
+
 # 3. Data Wrangling<a class="anchor" id="ch3"></a> تجربة للتعديل
 
+# 4. Explore Individual Variables<a class="anchor" id="ch4"></a>
 
+# 5. Did high budget ? <a class="anchor" id="ch5"></a>
