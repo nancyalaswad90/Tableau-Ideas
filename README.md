@@ -113,7 +113,19 @@ You are required to create three visualizations. Some questions you may attempt 
 
 - **[ Should I clean the data using the data interpreter check box](https://knowledge.udacity.com/questions/636517)**
 
-- **[]()**
+
+
+
+
+**Table of Contents:**
+* [1. Research Question](#ch1)
+* [2. Overview of the Dataset](#ch2)
+* [3. Data Wrangling](#ch3)
+* [4. Explore Individual Variables](#ch4)
+* [5. Did high budget movies achieve high ROI? (Q1)](#ch5)
+* [6. Did specific genres lead to high ROI? (Q2)](#ch6)
+* [7. Did high score movies achieve high ROI? (Q3)](#ch7)
+* [8. Conclusions](#ch8)
 
 
 ===========================
@@ -139,4 +151,5 @@ Of course, you can build your own tools using libraries in different statistical
 
 
 .
-#ch1
+# 3. Data Wrangling<a class="anchor" id="ch3"></a>
+
