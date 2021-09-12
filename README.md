@@ -132,11 +132,17 @@ You are required to create three visualizations. Some questions you may attempt 
 ===========================
 
 
-> ### 
+> ###   Research Question
 
-====================
 
-# 1. Research Question
+
+========================
+
+
+
+.
+
+
 
 - **[Extract Data]()**  Or How to publish <a class="anchor" id="ch1"></a>  
 
@@ -172,24 +178,23 @@ You are required to create three visualizations. Some questions you may attempt 
 
 
 
-**Table of Contents:**
-* [1. Research Question](#ch1)
-* [2. Overview of the Dataset](#ch2)
-* [3. Data Wrangling](#ch3)
-* [4. Explore Individual Variables](#ch4)
-* [5. Did high budget movies achieve high ROI? (Q1)](#ch5)
-* [6. Did specific genres lead to high ROI? (Q2)](#ch6)
-* [7. Did high score movies achieve high ROI? (Q3)](#ch7)
-* [8. Conclusions](#ch8)
-
 
 ===========================
+
+
+.
+
+
 
 
 
 ### Extra Tip :bulb:
 
 ---------------------
+
+
+
+.
 
 
 While this project concerns presenting data in a cohesive and efficient manner using Tableau, there are other popular tools companies use for presenting data. Here’s a sample of them!
