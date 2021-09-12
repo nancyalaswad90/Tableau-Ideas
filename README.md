@@ -29,7 +29,7 @@
 
 
 
-### [ٍTable calculations in Tableau  (Explained by using Video )](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
+### Table calculations in Tableau  [(Explained by using Video )](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
 
 
 
@@ -52,6 +52,12 @@ In this project, you'll create visualizations to reveal insights from a data set
 
 
 
+
+.
+
+
+
+
 **There are 3 different data sets you can choose from.**
 
 ================================================
@@ -67,20 +73,42 @@ In this project, you'll create visualizations to reveal insights from a data set
 
 .
 
+
+
+
+
+
 > ## 1)  [Flight Delays and Cancellations]()
+
+
+
 
 ==============================================
 
 
+
+
+.
+
+
+
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. You can find the dataset in supporting materials at the bottom of this page.
 
+
+
+
 The file you must use in creating your data visualizations is the `flights.csv` file. The other two provided files may be used in conjunction with the `flights.csv file`, but should not be used **alone.**
+
+
+
+
 
 
 - [Data Viz Project Walkthrough DAF Final](https://www.youtube.com/watch?v=9xqHA732LMA)
 
 
 .
+
 
 
 
