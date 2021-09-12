@@ -4,18 +4,18 @@
 
 
 
-### [How to Download & Install Tableau for Free  (Video )](https://www.youtube.com/watch?v=nurRwAsfOA4)
+### [How to Download & Install Tableau for Free  (Explained by using Video )](https://www.youtube.com/watch?v=nurRwAsfOA4)
 
 
 
-### [How to Upload Tableau Flight-Delays dataset](https://www.youtube.com/watch?v=OrCFzyv-304&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh)
+### [How to Upload Tableau Flight-Delays dataset  (Explained by using Video )](https://www.youtube.com/watch?v=OrCFzyv-304&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh)
 
 
 
-### [ٍSave and Extract data in Tableau then share link to public](https://www.youtube.com/watch?v=qVT1aFjDB64&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=4)
+### [ٍSave and Extract data in Tableau then share link to public (Explained by using Video )](https://www.youtube.com/watch?v=qVT1aFjDB64&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=4) and here are some steps as image ( Press here ) 
 
 
-### [ٍTable calculations in Tableau](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
+### [ٍTable calculations in Tableau  (Explained by using Video )](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
 
 
 
