@@ -10,7 +10,7 @@
 
 
 
-###  How to Download & Install Tableau for Free  [(Explained by using Video )](https://www.youtube.com/watch?v=nurRwAsfOA4)
+###  = 1 = How to Download & Install Tableau for Free  [(Explained by using Video )](https://www.youtube.com/watch?v=nurRwAsfOA4)
 
 
 
