@@ -22,18 +22,20 @@
 
 
 
-### Save and Extract data in Tableau then share link to public [(Explained by using Video )](https://www.youtube.com/watch?v=qVT1aFjDB64&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=4) and here are some steps as image [( Press here )](#ch1)
+### * Save and Extract data in Tableau then share link to public [(Explained by using Video )](https://www.youtube.com/watch?v=qVT1aFjDB64&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=4) and here are some steps as image [( Press here )](#ch1)
 
 
 
 
 
 
-### Table calculations in Tableau  [(Explained by using Video )](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
+
+### * Table calculations in Tableau  [(Explained by using Video )](https://www.youtube.com/watch?v=CbMtGrZnnoI&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=6)
 
 
 
 
+### * Cancellation Reason in Flights Dataset [Ideas with some steps as image( Press here )](#ch2)
 
 
 .
@@ -178,6 +180,24 @@ You are required to create three visualizations. Some questions you may attempt 
 
 
 
+
+===========================
+
+
+
+- **[Cancellation Reason in Flights Dataset]()**  <a class="anchor" id="ch2"></a>  
+
+
+
+- ![explain.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1631572178/explain.png)
+
+.
+
+- ![formula.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1631572177/formula.png)
+
+
+
+.
 
 ===========================
 
