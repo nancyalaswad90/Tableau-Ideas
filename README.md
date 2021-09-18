@@ -41,6 +41,13 @@ the documented review [1](https://knowledge.udacity.com/questions/474367) + [2](
 
 
 ### * [Clean  Flight delay project](https://knowledge.udacity.com/questions/697507)
+
+
+
+### * [Clean the data, (Youtube) ](https://knowledge.udacity.com/questions/201529)
+
+
+
 .
 
 > ========================
