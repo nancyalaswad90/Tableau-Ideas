@@ -50,6 +50,13 @@ the documented review [1](https://knowledge.udacity.com/questions/474367) + [2](
 
 ### * [Relation Vs join in tableau](https://help.tableau.com/current/pro/desktop/en-us/datasource_datamodel_whatschanged.htm) & [1](https://knowledge.udacity.com/questions/514761)
 
+
+
+- **Relationships make the analysis experience more intuitive.**
+
+
+You no longer need to engage in **extensive join planning and make assumptions ** about what join types will be required to make your data ready for analysis. Tableau automatically selects join types based on the fields being used in the visualization. During analysis, Tableau adjusts join types intelligently and preserves the native level of detail in your data. You can see aggregations at the level of detail of the fields in your viz rather than having to think about the underlying joins. Relationships can be many-to-many and support full outer joins. You don't need to use LOD expressions such as FIXED to deduplicate data in related tables.
+
 .
 
 > ========================
