@@ -48,6 +48,8 @@ the documented review [1](https://knowledge.udacity.com/questions/474367) + [2](
 
 
 
+### * [Relation Vs join in tableau](https://help.tableau.com/current/pro/desktop/en-us/datasource_datamodel_whatschanged.htm) & [1](https://knowledge.udacity.com/questions/514761)
+
 .
 
 > ========================
