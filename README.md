@@ -63,31 +63,10 @@ You no longer need to engage in **extensive join planning and make assumptions *
 
 ### * [Add a title to all visualizations! ](#chtitle) 
 
-![العنوان.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632025364/%D8%A7%D9%84%D8%B9%D9%86%D9%88%D8%A7%D9%86.png)
-.
 
 
 
 
-
-
- -  **Add a title to all visualizations! **
-
-Titles are important to ensure we are looking at the right place and quickly assess the data.
- 
-.
-
-
-###  Let me show you example image for Chart title to the dashboard and single visualization 
-
-
-
-.
-![chart_title_in_dashboard.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1583713262/chart_title_in_dashboard.png)
-
-
-
-![title.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1595374296/title.gif)
 
 .
 > ========================
@@ -260,12 +239,33 @@ You are required to create three visualizations. Some questions you may attempt 
 
 
 
-- **[****** titltt]()**  <a class="anchor" id="chtitle"></a>  
+- **[Add a title to all visualizations]()**  <a class="anchor" id="chtitle"></a>  
 
 
 
 
-HHoooooooooooooo
+ -  **Titles are important to ensure we are looking at the right place and quickly assess the data. **
+
+
+ 
+.
+
+
+###  Let me show you example image for Chart title to the dashboard and single visualization 
+
+
+
+.
+
+
+![chart_title_in_dashboard.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1583713262/chart_title_in_dashboard.png)
+
+
+.
+
+
+![title.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1595374296/title.gif)
+
 
 .
 
