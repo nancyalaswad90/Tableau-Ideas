@@ -22,7 +22,8 @@
 
 
 
-### * Save and Extract data in Tableau then share link to public [(Explained by using Video )](https://www.youtube.com/watch?v=qVT1aFjDB64&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=4) and here are some steps as image [( Press here )](#ch1)
+### * Save and Extract data in Tableau then share link to public [(Explained by using Video )](https://www.youtube.com/watch?v=qVT1aFjDB64&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh&index=4) and here are some steps as image [( Press here )](#ch1) and if I can't find the Extract Button I may follow [steps in this video link](https://www.youtube.com/watch?v=MLn_iZgP-80)
+
 
 
 
