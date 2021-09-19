@@ -239,7 +239,7 @@ You are required to create three visualizations. Some questions you may attempt 
 
 
 
-- **[Add a title to all visualizations]()**  <a class="anchor" id="chtitle"></a>  
+- **[Add a title to all visualizations](https://github.com/nancyalaswad90/Tableau-Ideas)**  <a class="anchor" id="chtitle"></a>  
 
 
 
