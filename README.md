@@ -57,8 +57,39 @@ the documented review [1](https://knowledge.udacity.com/questions/474367) + [2](
 
 You no longer need to engage in **extensive join planning and make assumptions ** about what join types will be required to make your data ready for analysis. Tableau automatically selects join types based on the fields being used in the visualization. During analysis, Tableau adjusts join types intelligently and preserves the native level of detail in your data. You can see aggregations at the level of detail of the fields in your viz rather than having to think about the underlying joins. Relationships can be many-to-many and support full outer joins. You don't need to use LOD expressions such as FIXED to deduplicate data in related tables.
 
+
+
+
+
+### * [Add a title to all visualizations! ](#chtitle) 
+
+![العنوان.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632025364/%D8%A7%D9%84%D8%B9%D9%86%D9%88%D8%A7%D9%86.png)
 .
 
+
+
+
+
+
+ -  **Add a title to all visualizations! **
+
+Titles are important to ensure we are looking at the right place and quickly assess the data.
+ 
+.
+
+
+###  Let me show you example image for Chart title to the dashboard and single visualization 
+
+
+
+.
+![chart_title_in_dashboard.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1583713262/chart_title_in_dashboard.png)
+
+
+
+![title.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1595374296/title.gif)
+
+.
 > ========================
 
 
@@ -217,6 +248,29 @@ You are required to create three visualizations. Some questions you may attempt 
 
 
 .
+
+
+
+
+===========================
+
+
+.
+
+
+
+
+- **[****** titltt]()**  <a class="anchor" id="chtitle"></a>  
+
+
+
+
+HHoooooooooooooo
+
+.
+
+
+
 
 ===========================
 
