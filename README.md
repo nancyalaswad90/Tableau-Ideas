@@ -66,7 +66,7 @@ You no longer need to engage in **extensive join planning and make assumptions *
 
 
 
-
+### * [Join Your Data in tableau  ](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)
 
 
 .
