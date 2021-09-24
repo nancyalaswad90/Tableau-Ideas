@@ -198,6 +198,15 @@ You are required to create three visualizations. Some questions you may attempt 
 ![image (2).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617583022/image__2_.png)
 
 
+
+
+![name your visualization.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632495635/name_your_visualization.png)
+
+
+
+
+![shaer.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632495635/shaer.png)
+
 .
 
 
