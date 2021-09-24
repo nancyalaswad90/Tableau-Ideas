@@ -255,7 +255,20 @@ You are required to create three visualizations. Some questions you may attempt 
 .
 
 
+> ## Anoter way
 
+
+
+![imageتعديل.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632479518/image%D8%AA%D8%B9%D8%AF%D9%8A%D9%84.png)
+
+.
+
+
+![اسماء.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632479518/%D8%A7%D8%B3%D9%85%D8%A7%D8%A1.png)
+
+
+
+.
 
 ===========================
 
