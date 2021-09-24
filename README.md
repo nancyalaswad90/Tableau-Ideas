@@ -198,6 +198,31 @@ You are required to create three visualizations. Some questions you may attempt 
 ![image (2).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617583022/image__2_.png)
 
 
+.
+
+
+> ## Anoter way 
+
+
+![111.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632473154/111.jpg)
+
+.
+
+
+![222.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1632473154/222.jpg)
+
+
+
+
+
+.
+
+
+.
+
+
+
+
 
 
 - **[How to make percentage ,  calculations in Tableau](https://www.youtube.com/watch?v=CbMtGrZnnoI&t=4s)**
