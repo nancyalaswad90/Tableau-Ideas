@@ -178,7 +178,7 @@ You are required to create three visualizations. Some questions you may attempt 
 
 
 
-- **[Extract Data]()**  Or How to publish <a class="anchor" id="ch1"></a>  
+- **[Extract Data](https://knowledge.udacity.com/questions/703302)**  Or How to publish <a class="anchor" id="ch1"></a>  
 
 .
 
