@@ -14,7 +14,7 @@
 
 ###  * How to Download & Install Tableau for Free  [(Explained by using Video )](https://www.youtube.com/watch?v=nurRwAsfOA4)
 
-
+- [Download link ](https://public.tableau.com/en-us/s/download)
 
 
 ### * How to Upload Tableau Flight-Delays dataset  [(Explained by using Video )](https://www.youtube.com/watch?v=OrCFzyv-304&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh)
